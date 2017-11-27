@@ -1,9 +1,11 @@
 <?php
 
-/* 
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+/**
+ * Plugin Name: WP Test Plugin
+ * Version: 1.0.0
+ * Plugin URI: http://wordpress.org
+ * Description: Test plugin
+ * Author: Denis Shiryaev
+ * License: GPL v3
  */
-
-echo 'index';
+echo 'test';
