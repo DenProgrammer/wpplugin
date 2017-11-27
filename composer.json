@@ -1,6 +1,6 @@
 {
     "name": "wordpress/wptestplugin",
-    "type": "plugin",
+    "type": "wordpress-plugin",
     "description": "Twig for Laravel 5",
     "license": "MIT",
     "authors": [
